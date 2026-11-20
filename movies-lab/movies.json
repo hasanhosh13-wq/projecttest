@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "Avatar",
+    "year": 2009,
+    "rating": 8.5
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "year": 1997,
+    "rating": 7.9
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 9.0
+  }
+]
